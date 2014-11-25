@@ -1,11 +1,18 @@
 # hexo-theme-athena
 
+
+
 A theme for [hexo](http://hexo.io/), modify from Hexo default [landscape](https://github.com/hexojs/hexo-theme-landscape/) theme.
 
 [Preview](http://steven5538.tw)
 
 ![pic1][pic1]
 ![pic2][pic2]
+
+## Update
+- 更改 js, css 库为国内源，优化加载速度
+- 添加友情链接图标，nav-links-icon
+- 去除 Share 链接
 
 ## Installation
 
