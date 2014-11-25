@@ -3,11 +3,13 @@ menu:
   Home: /
   Archives: /archives
   About: /about
+  Links: /links
 # Header Icon
 menu_icon:
   Home: nav-home-icon
   Archives: nav-archives-icon
   About: nav-about-icon
+  Links: nav-links-icon
 
 rss: /atom.xml
 
